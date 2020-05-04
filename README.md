@@ -2,5 +2,8 @@
 Генерация текста с помощью RNN
 
 Для создания приложения использовались:
-* Библиотека [Keras](https://ru.wikipedia.org/wiki/Keras)
-* [Python 3.6.8](https://www.python.org/downloads/release/python-368/)
+* [Anaconda](https://docs.conda.io/en/latest/)
+* Библиотека [PyTorch](https://pytorch.org/)
+* [Python 3.7.7](https://www.python.org/downloads/release/python-377/)
+
+>Рекомендую использовать анаконду для установки библиотеки.

@@ -3,3 +3,4 @@ __pycache__
 
 *.hdf5
 clean_text.txt
+*.net
